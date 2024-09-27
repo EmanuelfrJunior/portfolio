@@ -1,3 +1,14 @@
 span{
     color: #DAA520;
 }
+
+div.corsa.p{
+    font-size: 100;
+}
+
+section:hover{
+    width: 90%;
+    height: 760px;
+    transition: 8s;
+
+}
