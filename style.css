@@ -9,6 +9,10 @@ div.corsa.p{
 section:hover{
     width: 90%;
     height: 760px;
-    transition: 8s;
+    transition: 3s;
 
+}
+
+div.mudarCor{
+    color: #DAA520;
 }
